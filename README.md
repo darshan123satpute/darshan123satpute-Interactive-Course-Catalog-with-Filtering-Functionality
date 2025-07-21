@@ -25,7 +25,7 @@ This project is a fully interactive and responsive **Course Catalog Web Applicat
 
 ## 📸 Screenshot
 
-> *(Optional: Replace the image link with a real screenshot or GIF demo)*
+> 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/2d663b20-5a2d-464b-882e-814564a117d4" />
 
 
